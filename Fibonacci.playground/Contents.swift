@@ -10,4 +10,8 @@ for  _ in stride(from: 1, through: 20, by: 1){
         print(sonuc)
     }
 }
+
+
+
+
 //Feature A
