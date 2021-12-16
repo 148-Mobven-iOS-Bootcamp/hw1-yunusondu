@@ -9,4 +9,4 @@ for  _ in stride(from: 1, through: 20, by: 1){
     if  sonuc > 750 && sonuc < 1000{
         print(sonuc)
     }
-}
+}//FeatureB Yunus Ondu
